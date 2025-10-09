@@ -27,6 +27,13 @@ A mod menu with over 100 options made for the *Call of Duty: Modern Warfare Rema
 
 - Install the menu by dropping the folders in your HorizonMW game folder
 
+## Controls
+
+- ADS + Melee to open menu
+- Fire / ADS to scroll up or down
+- Lethal / Equipment to scroll left or right
+- Activate to accept / Melee to go back
+
 ## Screenshots
 
 <p align="center">
