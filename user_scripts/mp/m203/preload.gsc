@@ -10,7 +10,7 @@ initial() {
     setDvarIfUninitialized( "hmw_menu", 1 );
 
     //Auto Bot Fill
-    setDvarIfUninitialized( "hmw_bot_fill", 1 );
+    setDvarIfUninitialized( "hmw_bot_fill", 0 );
     setDvarIfUninitialized( "hmw_bot_fill_allies", 0 );
     setDvarIfUninitialized( "hmw_bot_fill_axis", 0 );
 
@@ -23,7 +23,7 @@ initial() {
     setDvarIfUninitialized( "hmw_slide", 0 );
 
     //Headshots Only
-    setDvarIfUninitialized( "hmw_headshots_only", 1 );
+    setDvarIfUninitialized( "hmw_headshots_only", 0 );
 
     //Quick Scope Lobby
     setDvarIfUninitialized( "hmw_isnipe", 0 );
