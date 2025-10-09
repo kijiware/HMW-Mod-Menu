@@ -1,7 +1,7 @@
 
 # HorizonMW Mod Menu
 
-A mod menu with over 100 options made for the *Call of Duty: Modern Warfare Remastered (2016)* client [HorizonMW](https://github.com/HorizonMW/HorizonMW-Client)
+A multiplayer mod menu with over 100 options made for the *Call of Duty: Modern Warfare Remastered (2016)* client [HorizonMW](https://github.com/HorizonMW/HorizonMW-Client)
 
 ## Features
 
