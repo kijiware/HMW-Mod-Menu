@@ -32,7 +32,7 @@ A mod menu with over 100 options made for the *Call of Duty: Modern Warfare Rema
 - ADS + Melee to open menu
 - Fire / ADS to scroll up or down
 - Lethal / Equipment to scroll left or right
-- Activate to accept / Melee to go back
+- Activate / Melee to accept or go back
 
 ## Screenshots
 
