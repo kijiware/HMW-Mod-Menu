@@ -25,7 +25,7 @@ A multiplayer mod menu with over 100 options made for the *Call of Duty: Modern 
 
 ## Installation
 
-- Install the menu by dropping the folders in your HorizonMW game folder
+- Install the menu by dropping the folder in your HorizonMW game folder
 
 ## Controls
 
