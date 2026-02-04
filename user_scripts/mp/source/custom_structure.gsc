@@ -1,6 +1,6 @@
-#include user_scripts\mp\m203\source\utilities;
-#include user_scripts\mp\m203\source\structure;
-#include user_scripts\mp\m203\source\option_structure;
+#include user_scripts\mp\source\utilities;
+#include user_scripts\mp\source\structure;
+#include user_scripts\mp\source\option_structure;
 
 open_menu() {
     self.menu[ "border" ]              = self create_shader( "white", "TOP_LEFT", "TOPCENTER", self.x_offset, ( self.y_offset - 1 ), ( self.width + 250 ), 34, self.color_theme, 1, 1 );

@@ -1,5 +1,5 @@
-#include user_scripts\mp\m203\source\utilities;
-#include user_scripts\mp\m203\source\custom_structure;
+#include user_scripts\mp\source\utilities;
+#include user_scripts\mp\source\custom_structure;
 
 set_menu( menu ) {
     self.current_menu = isdefined( menu ) ? menu : "Main Menu";
